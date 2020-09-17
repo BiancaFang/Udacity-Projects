@@ -1,0 +1,1 @@
+This is the 3rd Udacity project I worked on. This project helped me to understand how to use numpy to do hypothesis test in an ab test. Another Logistic regression approach was also utilized to solve the problem.   
